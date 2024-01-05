@@ -9,3 +9,4 @@
 ![image](https://github.com/hemengfei319/2023-Online-animal-identification-platform-based-on-resnet17-/assets/81627940/a614fb05-8dd6-4418-ba95-54451ee3ce87)
 
 
+[各类别准确率评估指标.csv](https://github.com/hemengfei319/2023-Online-animal-identification-platform-based-on-resnet17-/files/13839840/default.csv)
